@@ -1,7 +1,20 @@
 # 💫 About Me:
-Soy Karol Castilla, Full Stack Developer e ingeniera industrial con una fuerte vocación proactiva. Mi experiencia abarca desde el análisis hasta la implementación de aplicaciones web. En el Frontend, domino HTML, JavaScript, React, Redux y CSS, mientras que en el Backend me desenvuelvo con Node, Express y Sequelize, respaldado por mi experiencia con PostgreSQL en bases de datos. Además, cuento con certificaciones en Project Manager Specialist, Scrum y metodologías ágiles, así como diplomados en Gerencia de Proyectos y Gerencia de Proyectos Tecnológicos. Mi amplio conjunto de habilidades técnicas y conocimientos en gestión de proyectos me permite abordar desafíos de desarrollo de software con eficiencia y éxito.
 
+👋 ¡Hola! Soy Karol Castilla
 
+🚀 Full Stack Developer e ingeniera industrial con una fuerte vocación proactiva.
+
+💻 Apasionado por la programación y la creación de soluciones tecnológicas.
+
+🌟 Mi experiencia abarca desde el análisis hasta la implementación de aplicaciones web.
+
+💡 En el Frontend, domino HTML, JavaScript, React, Redux y CSS y en el Backend me desenvuelvo con Node, Express y Sequelize, respaldado por mi experiencia con PostgreSQL y mongoDB en bases de datos.
+
+📚 Disfruto aprendiendo cada dia más.
+
+🎯 cuento con certificaciones en Project Manager Specialist, Scrum y metodologías ágiles, así como diplomados en Gerencia de Proyectos y Gerencia de Proyectos Tecnológicos. Mi amplio conjunto de habilidades técnicas y conocimientos en gestión de proyectos me permite abordar desafíos de desarrollo de software con eficiencia y éxito.
+
+¡Gracias por visitar mi perfil! 👨‍💻🚀✨
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karolcastilla) 
 
